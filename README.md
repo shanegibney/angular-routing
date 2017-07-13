@@ -1,3 +1,7 @@
+# Angular Routing Demo
+
+This demo on [gh-pages](https://shanegibney.github.io/angular-routing/)
+
 # AngularRouting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
